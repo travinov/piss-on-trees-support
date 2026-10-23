@@ -1,0 +1,128 @@
+{
+  "title": "A dog off the leash",
+  "description": "Piss on Trees for iPhone and iPad: the game, TestFlight, support and privacy.",
+  "support_label": "Game & support",
+  "privacy_label": "Privacy",
+  "skip": "Skip to content",
+  "nav_label": "Main navigation",
+  "language_label": "Site language",
+  "footer": "A game for iPhone and iPad",
+  "eyebrow": "Paper adventures for iPhone",
+  "intro": "Outrun the owners, mark the trees and find your way through the park. Get help with the game or join a test walk.",
+  "contact_title": "Tell us about your walk",
+  "contact_intro": "Found a bug or have an idea for the game? We would like to hear it.",
+  "email_subject": "Piss on Trees — feedback",
+  "email_body": "Hello!\r\n\r\nWhat happened:\r\n\r\nExpected result:\r\n\r\nApp version and build:\r\nDevice model and iOS version:\r\n",
+  "email_button": "Email support",
+  "copy_label": "Copy email address",
+  "copied": "Address copied",
+  "copy_fallback": "Select the address and copy it manually.",
+  "contact_note": "Include the game version, device model and steps to reproduce the problem. A screenshot can help. Do not send passwords or sign-in codes.",
+  "contact_pending": "You can send feedback from TestFlight: open the game in TestFlight and choose Send Beta Feedback.",
+  "faq_label": "Before you go",
+  "faq_title": "Questions & answers",
+  "privacy_note": "How are parks stored, and what goes to Game Center?",
+  "privacy_link": "Read about data and privacy",
+  "beta_title": "Join a test walk",
+  "beta_intro": "The beta installs through Apple’s free TestFlight app. This is an early build and may contain bugs.",
+  "beta_button": "Join in TestFlight",
+  "beta_pending": "The invitation link will appear when external testing is prepared. Installation opens once Apple approves the beta build.",
+  "beta_review": "The external beta is awaiting Apple’s approval. The link does not guarantee installation before review is complete.",
+  "features": [
+    [
+      "12",
+      "different parks"
+    ],
+    [
+      "Night",
+      "light and scent"
+    ],
+    [
+      "Your parks",
+      ".potlevel import"
+    ]
+  ],
+  "faq": [
+    [
+      "How do I play?",
+      "<ol><li>Choose the walk button and start a walk.</li><li>Use the on-screen arrows to move. Approach a tree and tap the mark button.</li><li>Mark every tree while avoiding the owners with leashes. Trees can change position too.</li></ol>"
+    ],
+    [
+      "What should I test?",
+      "<p>Try the arrows, marking trees, movement on different surfaces, pursuit, pause, resuming a walk and sound. In a night park, check visibility within the flashlight and scent areas. In a park with a doghouse, try hiding and coming out.</p><p>A useful report includes the park number, build number, reproduction steps and a screenshot.</p>"
+    ],
+    [
+      "Why does movement speed change?",
+      "<p>Asphalt, sand, gravel and wooden paths affect movement differently. A map can mix several surfaces.</p>"
+    ],
+    [
+      "What happens at night?",
+      "<p>Trees and pursuers are hidden outside the owner’s flashlight and the dog’s scent area. The enhanced scent ability briefly reveals more.</p>"
+    ],
+    [
+      "How do I hide in a doghouse?",
+      "<p>In a park with a doghouse, approach its entrance and use the action button. While the dog is hidden, the owners lose track and wander in search of it. Pursuit may resume after you come out.</p>"
+    ],
+    [
+      "How do I open my own park?",
+      "<p>Save a <code>.potlevel</code> file in Files on your iPhone and open it with Piss on Trees. Imported parks appear in the My Parks section.</p><p>Map images and objects are stored on the device. An external link opens only after a warning showing its address and your confirmation.</p>"
+    ],
+    [
+      "Do I need an account?",
+      "<p>No in-game registration is required for local walks. Game Center is an optional connection in the records screen.</p>"
+    ],
+    [
+      "Why is the Game Center leaderboard missing?",
+      "<p>The online leaderboard is still being configured and tested. Availability depends on the build and Apple’s service. Version 0.2.22 checks whether the leaderboard loads and shows a message if it is unavailable. Local records work independently.</p>"
+    ],
+    [
+      "Will an update remove my parks?",
+      "<p>Normal updates are designed to keep local parks and progress. Keep the original files of your own maps separately. Deleting the app may delete its local data.</p>"
+    ]
+  ],
+  "privacy_title": "Privacy policy",
+  "privacy_description": "Data in Piss on Trees: local parks, Game Center, TestFlight and support messages.",
+  "privacy_intro": "This page describes the current Piss on Trees 0.2.22 beta for iPhone and iPad. The main game runs locally. Online scores through Apple Game Center are optional.",
+  "owner_label": "Developer and data contact",
+  "updated_label": "Updated October 23, 2026",
+  "contents_label": "On this page",
+  "privacy_sections": [
+    [
+      "local",
+      "Progress and custom parks",
+      "<p>Settings, the saved walk, local records, run history, imported maps and their images are stored in the app’s data on your device. The game has no developer-run account server or park-upload service.</p><p>Import processes the map file you choose. When you share a file with another app, you choose its recipients. System backups are controlled by your device and iCloud settings.</p>"
+    ],
+    [
+      "game-center",
+      "Optional online scores",
+      "<p>When you connect Game Center, the app uses your game-scoped Apple identifier and nickname, binds its score queue to that player, and submits the score of a completed built-in campaign. Custom parks and guest runs are excluded. Failed submissions remain on the device for that same player to retry.</p><p>Your nickname and score may be visible to other players on a global leaderboard. Apple operates Game Center under its <a href=\"https://www.apple.com/legal/privacy/data/en/game-center/\">Game Center privacy policy</a>.</p><p>You can stop future submissions using the disable online records button in the records screen. This does not remove scores already sent to Apple. Manage your Apple profile and data through Game Center and your Apple Account.</p>"
+    ],
+    [
+      "testflight",
+      "Testing through TestFlight",
+      "<p>Beta installation uses Apple TestFlight. Apple processes installation, session, crash and voluntarily submitted feedback information and makes available testing reports to the developer. Screenshots and comments you send are used to diagnose and fix issues.</p><p>See <a href=\"https://developer.apple.com/testflight/\">Apple TestFlight</a> for details. You can stop testing in TestFlight.</p>"
+    ],
+    [
+      "links",
+      "Links on park objects",
+      "<p>A custom map may include external links. The game shows the destination address and asks for confirmation before opening one. The destination website may receive your IP address and other ordinary browser information and applies its own data policy.</p>"
+    ],
+    [
+      "support",
+      "Support messages",
+      "<p>If you send an email or feedback report, the developer receives your address, message and any files you choose to attach. This information is used to reply and diagnose the issue. Correspondence is retained while needed to resolve the request; you may request deletion through the same contact channel.</p><p>Contact: {{email_link}}. The developer has no remote access to saved data on your device.</p><p>GitHub issues are public and handled under the <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub privacy statement</a>. Use TestFlight for private details.</p>"
+    ],
+    [
+      "website",
+      "This website and analytics",
+      "<p>The game includes no advertising or third-party analytics SDKs. This website uses no analytics scripts, advertising cookies, upload forms or localStorage. The email-copy button writes to the clipboard only when you press it.</p><p>The website is hosted on GitHub Pages. GitHub logs visitor IP addresses for service security: <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection\">GitHub Pages data collection</a>.</p>"
+    ],
+    [
+      "delete",
+      "Deletion and your choices",
+      "<p>You can remove custom parks in My Parks. Deleting the app through iOS may delete its remaining local data. Exported files, system backups, email and data held by Apple must be managed separately with the relevant service.</p><p>Local play does not require Game Center. Disabling online records stops new submissions, but does not remove data already sent to Apple. This page is updated when features change.</p>"
+    ]
+  ],
+  "github_button": "Report a bug on GitHub",
+  "github_note": "GitHub issues are public. Use TestFlight feedback for private details."
+}
