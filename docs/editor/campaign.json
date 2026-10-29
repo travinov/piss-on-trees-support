@@ -1,0 +1,9578 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "campaign-01",
+    "revision": 1,
+    "title": "Луна-парк · Первый круг",
+    "subtitle": "Обойди колесо и оставь себе выход",
+    "author": "Paws in the Park",
+    "theme": 0,
+    "columns": 13,
+    "rows": 9,
+    "seed": 42,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "asphalt"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "wheel-6-5",
+        "asset": "wheel",
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-2-1",
+        "asset": "flowers",
+        "cell": {
+          "x": 2,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "kiosk-6-1",
+        "asset": "kiosk",
+        "cell": {
+          "x": 6,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": true,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "poster-10-1",
+        "asset": "poster",
+        "cell": {
+          "x": 10,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "lamp-2-5",
+        "asset": "lamp",
+        "cell": {
+          "x": 2,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "clown-10-5",
+        "asset": "clown",
+        "cell": {
+          "x": 10,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.62,
+      "treeStep": 1.15,
+      "grace": 7,
+      "maxPedestrians": 0,
+      "spawnInterval": 12
+    }
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-02",
+    "revision": 2,
+    "title": "Луна-парк · Другие тропы",
+    "subtitle": "На песке хозяин медленнее",
+    "author": "Paws in the Park",
+    "theme": 0,
+    "columns": 13,
+    "rows": 9,
+    "seed": 43,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "asphalt"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "wheel-6-5",
+        "asset": "wheel",
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-5-1",
+        "asset": "garland",
+        "cell": {
+          "x": 5,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.601229,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "kiosk-9-1",
+        "asset": "bush-round",
+        "cell": {
+          "x": 9,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.349379,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": true,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "poster-7-2",
+        "asset": "poster",
+        "cell": {
+          "x": 7,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "lamp-11-2",
+        "asset": "lamp",
+        "cell": {
+          "x": 11,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "clown-1-5",
+        "asset": "clown-performer",
+        "cell": {
+          "x": 1,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 1.338229,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "bench-3-6",
+        "asset": "bench-family",
+        "cell": {
+          "x": 3,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.573077,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-monument-dog",
+        "asset": "monument-dog",
+        "cell": {
+          "x": 10,
+          "y": 7
+        },
+        "width": 0.85,
+        "height": 1.039232,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.599,
+      "treeStep": 1.13,
+      "grace": 7,
+      "maxPedestrians": 0,
+      "spawnInterval": 12
+    }
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-03",
+    "revision": 2,
+    "title": "Луна-парк · Перехват",
+    "subtitle": "На развилках выбирай путь отхода",
+    "author": "Paws in the Park",
+    "theme": 0,
+    "columns": 13,
+    "rows": 9,
+    "seed": 44,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "asphalt"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "wheel-6-5",
+        "asset": "wheel",
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-6-2",
+        "asset": "monument-tree",
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 1.216387,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "kiosk-10-2",
+        "asset": "fountain-fish",
+        "cell": {
+          "x": 10,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.813837,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": true,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "poster-2-6",
+        "asset": "garland",
+        "cell": {
+          "x": 2,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.601229,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-bush-slender",
+        "asset": "bush-slender",
+        "cell": {
+          "x": 11,
+          "y": 7
+        },
+        "width": 0.85,
+        "height": 0.586025,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.5794,
+      "treeStep": 1.1099999999999999,
+      "grace": 7,
+      "maxPedestrians": 0,
+      "spawnInterval": 12
+    }
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-04",
+    "revision": 3,
+    "title": "Луна-парк · Большая прогулка",
+    "subtitle": "Прохожий остановится у середины дорожки и уйдёт через выход.",
+    "author": "Paws in the Park",
+    "theme": 0,
+    "columns": 13,
+    "rows": 9,
+    "seed": 45,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "asphalt"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "asphalt"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "wheel-6-5",
+        "asset": "wheel",
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-7-1",
+        "asset": "garland",
+        "cell": {
+          "x": 7,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.601229,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "kiosk-11-1",
+        "asset": "monument-sun",
+        "cell": {
+          "x": 11,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 1.213736,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": true,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "poster-5-2",
+        "asset": "bush-bloom",
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.349379,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "lamp-9-2",
+        "asset": "lamp",
+        "cell": {
+          "x": 9,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "clown-3-5",
+        "asset": "clown-performer",
+        "cell": {
+          "x": 3,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 1.338229,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "bench-1-6",
+        "asset": "bench-grandparents",
+        "cell": {
+          "x": 1,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.585079,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-bench-readers",
+        "asset": "bench-readers",
+        "cell": {
+          "x": 10,
+          "y": 7
+        },
+        "width": 1.05,
+        "height": 0.81911,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [
+      {
+        "id": "main",
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "exit": {
+          "x": 12,
+          "y": 4
+        },
+        "pauseAt": {
+          "x": 4,
+          "y": 4
+        },
+        "pauseSeconds": 1.2
+      }
+    ],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.5611,
+      "treeStep": 1.0899999999999999,
+      "grace": 7,
+      "maxPedestrians": 1,
+      "spawnInterval": 12
+    }
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-05",
+    "revision": 2,
+    "title": "Париж · Первый круг",
+    "subtitle": "Обойди колесо и оставь себе выход",
+    "author": "Paws in the Park",
+    "theme": 1,
+    "columns": 13,
+    "rows": 9,
+    "seed": 46,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 1
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 1
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 3
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 7
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 7
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "paving"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "tower-4-5",
+        "asset": "tower",
+        "cell": {
+          "x": 4,
+          "y": 5
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-10-1",
+        "asset": "table",
+        "cell": {
+          "x": 10,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.56999,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "cafe-8-2",
+        "asset": "fountain-birds",
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.745908,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "fountain-2-5",
+        "asset": "mime",
+        "cell": {
+          "x": 2,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.870438,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-tourists",
+        "asset": "tourists",
+        "cell": {
+          "x": 11,
+          "y": 7
+        },
+        "width": 0.85,
+        "height": 0.700318,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-bench-couple",
+        "asset": "bench-couple",
+        "cell": {
+          "x": 1,
+          "y": 1
+        },
+        "width": 1.05,
+        "height": 0.940052,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 4
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [
+      {
+        "id": "main",
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "exit": {
+          "x": 12,
+          "y": 4
+        }
+      }
+    ],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.5439,
+      "treeStep": 1.0699999999999998,
+      "grace": 6,
+      "maxPedestrians": 1,
+      "spawnInterval": 12
+    }
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-06",
+    "revision": 3,
+    "title": "Париж · Другие тропы",
+    "subtitle": "Бабушка идёт наперерез. Меняй направление у развилок.",
+    "author": "Paws in the Park",
+    "theme": 1,
+    "columns": 13,
+    "rows": 9,
+    "seed": 47,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 1
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 1
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 3
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 5
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 7
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 7
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 7
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "paving"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "tower-8-2",
+        "asset": "tower",
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-9-1",
+        "asset": "icecream",
+        "cell": {
+          "x": 9,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.766768,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "cafe-11-2",
+        "asset": "hotdog-cart",
+        "cell": {
+          "x": 11,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.855362,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-girl-balloon",
+        "asset": "girl-balloon",
+        "cell": {
+          "x": 1,
+          "y": 5
+        },
+        "width": 0.65,
+        "height": 1.543374,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-monument-poet",
+        "asset": "monument-poet",
+        "cell": {
+          "x": 5,
+          "y": 7
+        },
+        "width": 0.85,
+        "height": 1.235714,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 4
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandma",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [
+      {
+        "id": "main",
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "exit": {
+          "x": 12,
+          "y": 4
+        },
+        "pauseAt": {
+          "x": 6,
+          "y": 4
+        },
+        "pauseSeconds": 1.2
+      }
+    ],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.5277,
+      "treeStep": 1.0499999999999998,
+      "grace": 6,
+      "maxPedestrians": 1,
+      "spawnInterval": 12
+    }
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-07",
+    "revision": 2,
+    "title": "Париж · Перехват",
+    "subtitle": "На развилках выбирай путь отхода",
+    "author": "Paws in the Park",
+    "theme": 1,
+    "columns": 13,
+    "rows": 9,
+    "seed": 48,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 1
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 1
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 1
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 3
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 3
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 7
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 7
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "paving"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "tower-4-5",
+        "asset": "tower",
+        "cell": {
+          "x": 4,
+          "y": 5
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-2-6",
+        "asset": "mime",
+        "cell": {
+          "x": 2,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.870438,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-paris-lady",
+        "asset": "paris-lady",
+        "cell": {
+          "x": 11,
+          "y": 1
+        },
+        "width": 0.85,
+        "height": 1.228447,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-musician",
+        "asset": "musician",
+        "cell": {
+          "x": 10,
+          "y": 7
+        },
+        "width": 0.85,
+        "height": 0.807764,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-fountain-urn",
+        "asset": "fountain-urn",
+        "cell": {
+          "x": 1,
+          "y": 1
+        },
+        "width": 0.85,
+        "height": 0.919388,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 4
+      },
+      {
+        "x": 6,
+        "y": 0
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      },
+      {
+        "kind": "grandma",
+        "cell": {
+          "x": 0,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [
+      {
+        "id": "main",
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "exit": {
+          "x": 12,
+          "y": 4
+        }
+      }
+    ],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.5124,
+      "treeStep": 1.0299999999999998,
+      "grace": 6,
+      "maxPedestrians": 1,
+      "spawnInterval": 12
+    }
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-08",
+    "revision": 3,
+    "title": "Париж · Большая прогулка",
+    "subtitle": "Рыжие деревья замечают собаку раньше. Подходи с другой стороны.",
+    "author": "Paws in the Park",
+    "theme": 1,
+    "columns": 13,
+    "rows": 9,
+    "seed": 49,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 1
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 1
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 3
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 5
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 6
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 6
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 7
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 7
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 7
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "paving"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "gravel"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "earth"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "paving"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "tower-8-2",
+        "asset": "tower",
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-7-1",
+        "asset": "table",
+        "cell": {
+          "x": 7,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.56999,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "cafe-11-1",
+        "asset": "cafe",
+        "cell": {
+          "x": 11,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-fountain-shell",
+        "asset": "fountain-shell",
+        "cell": {
+          "x": 1,
+          "y": 7
+        },
+        "width": 0.85,
+        "height": 0.940782,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 4
+      },
+      {
+        "x": 6,
+        "y": 0
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      },
+      {
+        "kind": "grandma",
+        "cell": {
+          "x": 0,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [
+      {
+        "id": "main",
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "exit": {
+          "x": 12,
+          "y": 4
+        },
+        "pauseAt": {
+          "x": 6,
+          "y": 4
+        },
+        "pauseSeconds": 1.2
+      }
+    ],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.498,
+      "treeStep": 1.0099999999999998,
+      "grace": 6,
+      "maxPedestrians": 2,
+      "spawnInterval": 9
+    },
+    "treeBehaviors": [
+      "frightened",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary"
+    ]
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-09",
+    "revision": 3,
+    "title": "Лазурный берег · Первый круг",
+    "subtitle": "Обойди колесо и оставь себе выход",
+    "author": "Paws in the Park",
+    "theme": 2,
+    "columns": 13,
+    "rows": 9,
+    "seed": 50,
+    "night": false,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "lifeguard-6-5",
+        "asset": "lifeguard",
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "shell-2-1",
+        "asset": "lifeguard-person",
+        "cell": {
+          "x": 2,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.837405,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "cabin-10-1",
+        "asset": "cabin",
+        "cell": {
+          "x": 10,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": true,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "bench-2-5",
+        "asset": "lounger",
+        "cell": {
+          "x": 2,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.51567,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "lamp-10-5",
+        "asset": "lamp",
+        "cell": {
+          "x": 10,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-4-6",
+        "asset": "sandcastle",
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.623729,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "umbrella-8-6",
+        "asset": "umbrella",
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "design-beach-family",
+        "asset": "beach-family",
+        "cell": {
+          "x": 6,
+          "y": 1
+        },
+        "width": 0.85,
+        "height": 0.605663,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 4
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [
+      {
+        "id": "main",
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "exit": {
+          "x": 12,
+          "y": 4
+        }
+      }
+    ],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.4844,
+      "treeStep": 0.9899999999999999,
+      "grace": 5,
+      "maxPedestrians": 2,
+      "spawnInterval": 9
+    },
+    "treeBehaviors": [
+      "frightened",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary"
+    ]
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-10",
+    "revision": 3,
+    "title": "Лазурный берег · Другие тропы",
+    "subtitle": "Ночью доверься носу. Берегись фонарика!",
+    "author": "Paws in the Park",
+    "theme": 2,
+    "columns": 13,
+    "rows": 9,
+    "seed": 51,
+    "night": true,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "lifeguard-1-1",
+        "asset": "lifeguard",
+        "cell": {
+          "x": 1,
+          "y": 1
+        },
+        "width": 1.5,
+        "height": 1.8,
+        "pivotX": 0.25,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "shell-11-2",
+        "asset": "sandcastle",
+        "cell": {
+          "x": 11,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.623729,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "cabin-1-5",
+        "asset": "cabin",
+        "cell": {
+          "x": 1,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": true,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "bench-11-6",
+        "asset": "sunbather-front",
+        "cell": {
+          "x": 11,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.405536,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 4
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.4715,
+      "treeStep": 0.97,
+      "grace": 5,
+      "maxPedestrians": 0,
+      "spawnInterval": 9
+    },
+    "treeBehaviors": [
+      "frightened",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary"
+    ]
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-11",
+    "revision": 3,
+    "title": "Лазурный берег · Перехват",
+    "subtitle": "Ночью доверься носу. Берегись фонарика!",
+    "author": "Paws in the Park",
+    "theme": 2,
+    "columns": 13,
+    "rows": 9,
+    "seed": 52,
+    "night": true,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "lifeguard-6-5",
+        "asset": "lifeguard",
+        "cell": {
+          "x": 6,
+          "y": 5
+        },
+        "width": 2.4,
+        "height": 1.9,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": -1,
+            "y": 0
+          },
+          {
+            "x": -1,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "shell-2-2",
+        "asset": "sunbather-back",
+        "cell": {
+          "x": 2,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.405536,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "cabin-10-2",
+        "asset": "cabin",
+        "cell": {
+          "x": 10,
+          "y": 2
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": true,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "bench-4-5",
+        "asset": "lounger",
+        "cell": {
+          "x": 4,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.51567,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "lamp-8-5",
+        "asset": "lamp",
+        "cell": {
+          "x": 8,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "flowers-2-6",
+        "asset": "sandcastle",
+        "cell": {
+          "x": 2,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.623729,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "umbrella-10-6",
+        "asset": "umbrella",
+        "cell": {
+          "x": 10,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 4
+      },
+      {
+        "x": 6,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 0
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      },
+      {
+        "kind": "grandma",
+        "cell": {
+          "x": 0,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [
+      {
+        "id": "main",
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "exit": {
+          "x": 12,
+          "y": 4
+        }
+      }
+    ],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.4593,
+      "treeStep": 0.95,
+      "grace": 5,
+      "maxPedestrians": 2,
+      "spawnInterval": 9
+    },
+    "treeBehaviors": [
+      "frightened",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary"
+    ]
+  },
+  {
+    "schemaVersion": 8,
+    "id": "campaign-12",
+    "revision": 3,
+    "title": "Лазурный берег · Большая прогулка",
+    "subtitle": "Ночью доверься носу. Берегись фонарика!",
+    "author": "Paws in the Park",
+    "theme": 2,
+    "columns": 13,
+    "rows": 9,
+    "seed": 53,
+    "night": true,
+    "roads": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 0
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 1
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 1
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 2
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 2
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 3
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 3
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 4
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 5
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 5
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 6
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 6
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 7
+        },
+        "surface": "sand"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 7
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 0,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 1,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 2,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 3,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 4,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 5,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 6,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 7,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 8,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 9,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 10,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 11,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 8
+        },
+        "surface": "boardwalk"
+      }
+    ],
+    "surfaces": [
+      {
+        "id": "asphalt",
+        "name": "Асфальт",
+        "color": "87928B",
+        "dog": 1,
+        "owner": 1,
+        "tree": 1,
+        "pedestrian": 1
+      },
+      {
+        "id": "paving",
+        "name": "Брусчатка",
+        "color": "B3A88F",
+        "dog": 0.95,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      },
+      {
+        "id": "earth",
+        "name": "Земля",
+        "color": "B99570",
+        "dog": 0.9,
+        "owner": 0.85,
+        "tree": 0.95,
+        "pedestrian": 0.85
+      },
+      {
+        "id": "gravel",
+        "name": "Гравий",
+        "color": "C5B69A",
+        "dog": 0.85,
+        "owner": 0.8,
+        "tree": 0.95,
+        "pedestrian": 0.8
+      },
+      {
+        "id": "sand",
+        "name": "Песок",
+        "color": "E4CA87",
+        "dog": 0.75,
+        "owner": 0.6,
+        "tree": 0.9,
+        "pedestrian": 0.7
+      },
+      {
+        "id": "boardwalk",
+        "name": "Настил",
+        "color": "B88D60",
+        "dog": 1,
+        "owner": 0.95,
+        "tree": 1,
+        "pedestrian": 0.95
+      }
+    ],
+    "objects": [
+      {
+        "id": "lifeguard-1-1",
+        "asset": "lifeguard",
+        "cell": {
+          "x": 1,
+          "y": 1
+        },
+        "width": 1.5,
+        "height": 1.8,
+        "pivotX": 0.25,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": true,
+        "layer": "props"
+      },
+      {
+        "id": "shell-11-1",
+        "asset": "sunbather-standing",
+        "cell": {
+          "x": 11,
+          "y": 1
+        },
+        "width": 0.75,
+        "height": 1.093359,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "cabin-11-5",
+        "asset": "cabin",
+        "cell": {
+          "x": 11,
+          "y": 5
+        },
+        "width": 0.75,
+        "height": 0.85,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": true,
+        "unique": false,
+        "layer": "props"
+      },
+      {
+        "id": "bench-1-6",
+        "asset": "lounger",
+        "cell": {
+          "x": 1,
+          "y": 6
+        },
+        "width": 0.75,
+        "height": 0.51567,
+        "pivotX": 0.5,
+        "pivotY": 0.95,
+        "rotation": 0,
+        "footprint": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "solid": false,
+        "blocksLight": false,
+        "unique": false,
+        "layer": "props"
+      }
+    ],
+    "assets": [],
+    "dog": {
+      "x": 0,
+      "y": 0
+    },
+    "trees": [
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 8,
+        "y": 4
+      },
+      {
+        "x": 2,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 8
+      },
+      {
+        "x": 4,
+        "y": 8
+      },
+      {
+        "x": 12,
+        "y": 4
+      },
+      {
+        "x": 6,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 4
+      },
+      {
+        "x": 10,
+        "y": 0
+      }
+    ],
+    "catchers": [
+      {
+        "kind": "grandpa",
+        "cell": {
+          "x": 12,
+          "y": 8
+        }
+      },
+      {
+        "kind": "grandma",
+        "cell": {
+          "x": 0,
+          "y": 8
+        }
+      }
+    ],
+    "gates": [
+      {
+        "id": "main",
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "exit": {
+          "x": 12,
+          "y": 4
+        },
+        "pauseAt": {
+          "x": 4,
+          "y": 4
+        },
+        "pauseSeconds": 1.2
+      }
+    ],
+    "lights": [
+      {
+        "cell": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 2
+      },
+      {
+        "cell": {
+          "x": 12,
+          "y": 4
+        },
+        "radius": 2
+      }
+    ],
+    "difficulty": {
+      "dogStep": 0.17,
+      "ownerStep": 0.4477,
+      "treeStep": 0.9299999999999999,
+      "grace": 5,
+      "maxPedestrians": 2,
+      "spawnInterval": 9
+    },
+    "treeBehaviors": [
+      "frightened",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary",
+      "ordinary"
+    ]
+  }
+]

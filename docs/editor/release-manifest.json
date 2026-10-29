@@ -1,0 +1,272 @@
+{
+  "name": "Paws in the Park — Мастерская парков",
+  "version": "0.2.19",
+  "base": "/piss-on-trees-support/editor/",
+  "files": [
+    {
+      "path": "assets/index-BkquXSvq.css",
+      "bytes": 13816,
+      "sha256": "655572fa4bdd567fccb0260daaa74b4b3cd196820d66d5bbe205b6fa9952d305"
+    },
+    {
+      "path": "assets/index-DOYFoz40.js",
+      "bytes": 299475,
+      "sha256": "0c048c5be42da52edde76da840d5149d4c9afa9a4b2badc40d6d1114f218b111"
+    },
+    {
+      "path": "builtin-art/beach-family.png",
+      "bytes": 8693,
+      "sha256": "64c76569ee318133ee668a18c69f9b1858b051db24036942b3620b4143210d4a"
+    },
+    {
+      "path": "builtin-art/bench-couple.png",
+      "bytes": 11099,
+      "sha256": "e996f51ac2628a574156929ad420d0bb261e679649aa4b3b5dd8d1352baa5b7f"
+    },
+    {
+      "path": "builtin-art/bench-family.png",
+      "bytes": 12485,
+      "sha256": "dd1520bfc345ff83b9616e566438036621951a38bb4855a5eeba95f57779d9f9"
+    },
+    {
+      "path": "builtin-art/bench-grandparents.png",
+      "bytes": 10523,
+      "sha256": "fd89a97bef9e9278ea00c2db6923b8e0a0ea3df2ad1bb1fe62f831d32f69744f"
+    },
+    {
+      "path": "builtin-art/bench-readers.png",
+      "bytes": 11282,
+      "sha256": "316ee10af366b93674a35393dc3fa0705ace9c2e4be3129a313b0f9c5a03fc06"
+    },
+    {
+      "path": "builtin-art/bench.png",
+      "bytes": 1993,
+      "sha256": "06f0cf13b4f5282ca9fe90760f2a995f973f3901d10597c129466f3ab6cc88ed"
+    },
+    {
+      "path": "builtin-art/bush-bloom.png",
+      "bytes": 5857,
+      "sha256": "9367dc2abccfe4272516eab23fee315e26e008099a1a9d3251751d384dca6547"
+    },
+    {
+      "path": "builtin-art/bush-round.png",
+      "bytes": 5386,
+      "sha256": "91890a94434340a1ceda6532644aec2600c53fae6c3065b424f17e9033326052"
+    },
+    {
+      "path": "builtin-art/bush-slender.png",
+      "bytes": 6750,
+      "sha256": "2a44a85f6fa1534d1f57766832237acea8c6d7f5ad014adcb227e4dbc05de860"
+    },
+    {
+      "path": "builtin-art/cabin.png",
+      "bytes": 4074,
+      "sha256": "8bf826a1b33b7366905a6cf642f82b50c9d1439817902bd61715a6ef74843d59"
+    },
+    {
+      "path": "builtin-art/cafe.png",
+      "bytes": 4666,
+      "sha256": "8671b6396d7c18700ec47a2ac3c95464113e86be071d93dc75843785a11f6631"
+    },
+    {
+      "path": "builtin-art/clown-performer.png",
+      "bytes": 7225,
+      "sha256": "ef9d8d8949a611121f9a847b4d12c405c064623193c1da0e058cd1877c575173"
+    },
+    {
+      "path": "builtin-art/clown.png",
+      "bytes": 5836,
+      "sha256": "7a32dc39f5ce6ecc01b7ce27e1d9959e117ae8e62fbc6309a3fd69bf46cdd148"
+    },
+    {
+      "path": "builtin-art/doghouse.png",
+      "bytes": 5233,
+      "sha256": "9df74a4373dc70c6d8ba85aff9223e907a872b390f557c7bd8e479cd10bb79d4"
+    },
+    {
+      "path": "builtin-art/fence.png",
+      "bytes": 3788,
+      "sha256": "0dc9e18c1575a2b0ee5b412ebba148c140bf1a033572f83390fb6774b96c3635"
+    },
+    {
+      "path": "builtin-art/flowers.png",
+      "bytes": 5167,
+      "sha256": "d971b6d5da33ed2f9b3a8b8de37223cd1c8bfd6bb7ab0a87897cbeaccadd6f13"
+    },
+    {
+      "path": "builtin-art/fountain-birds.png",
+      "bytes": 8276,
+      "sha256": "3ada6d0d109a97456c0fccfb1a843bf2a2225877fce03bcc329e5ef474a2a3c0"
+    },
+    {
+      "path": "builtin-art/fountain-fish.png",
+      "bytes": 8027,
+      "sha256": "51f24f2b326dec27ca228e14c0f01dbc9e8e93d49a75516db2e1e53199e1fe05"
+    },
+    {
+      "path": "builtin-art/fountain-shell.png",
+      "bytes": 8077,
+      "sha256": "4c8eebeb58ed6597ee9dfcd6bee713ac6cbb636baec7765de4a1a63844a814b9"
+    },
+    {
+      "path": "builtin-art/fountain-urn.png",
+      "bytes": 7579,
+      "sha256": "79c4d492d636d9066e7f1e11ac234d395fd6154012366998ea7d30b32ce2c0be"
+    },
+    {
+      "path": "builtin-art/fountain.png",
+      "bytes": 4751,
+      "sha256": "1fddf5d8695072e39c8ddd4a3907a002262b9dad44d1c3a69e6f19368f0797a5"
+    },
+    {
+      "path": "builtin-art/garland.png",
+      "bytes": 5908,
+      "sha256": "fd9798342e39e84ce3f880758a9984070e67342dd0c5ca2ad0a7165220fab6ce"
+    },
+    {
+      "path": "builtin-art/girl-balloon.png",
+      "bytes": 6412,
+      "sha256": "982013bc233f17b266c2e6856debbf05d5f4f3948ab5c60aaf33b5a075309f7f"
+    },
+    {
+      "path": "builtin-art/hotdog-cart.png",
+      "bytes": 8196,
+      "sha256": "e9a16a1b20129dca4d4f0406a7e3fce2cf5bc66f487fd6dae94afbef011ee69d"
+    },
+    {
+      "path": "builtin-art/icecream.png",
+      "bytes": 8086,
+      "sha256": "c8d678fdbf22a71e1cc2073ff7aad015337a8ccb40afca0e2ff6087e18780b4c"
+    },
+    {
+      "path": "builtin-art/kiosk.png",
+      "bytes": 4922,
+      "sha256": "62bc61c85e7211adc7386a158cf8f7a47a01441ca1c3d3841aa7a51b33b43965"
+    },
+    {
+      "path": "builtin-art/lamp.png",
+      "bytes": 3051,
+      "sha256": "f4bea3d911256ea99f6a707dc30f63095ab495efc49bb87b2ab1bc7694a3cea5"
+    },
+    {
+      "path": "builtin-art/lifeguard-person.png",
+      "bytes": 6252,
+      "sha256": "bd1af5fd60e037596d9bfcc4bb05466c20f6c9d932c38c8f2550bab9fb461e3c"
+    },
+    {
+      "path": "builtin-art/lifeguard.png",
+      "bytes": 5550,
+      "sha256": "f3bb560163c93a71a221a9b9e4de75f4e80cbffd55dad7dd79c9aaaf1a5205c9"
+    },
+    {
+      "path": "builtin-art/lounger.png",
+      "bytes": 6119,
+      "sha256": "b2f5ef11d18fe0f0126c69e989605473ffd3c538d83b75ee45109ac339387066"
+    },
+    {
+      "path": "builtin-art/metrics.json",
+      "bytes": 11969,
+      "sha256": "9ceed5673318655e29c9610c24c7822bd29949c0b4fa873f0d6cc75acd1915dc"
+    },
+    {
+      "path": "builtin-art/mime.png",
+      "bytes": 7213,
+      "sha256": "7e7cffffed72d0af2988f5784a2e7733029513e8cb32243d0f30c952f7f723dc"
+    },
+    {
+      "path": "builtin-art/monument-dog.png",
+      "bytes": 6143,
+      "sha256": "edc02e47e971323a8dabd6915df71c8f6f4e2551d0c80ff95154479e6c15104d"
+    },
+    {
+      "path": "builtin-art/monument-poet.png",
+      "bytes": 5053,
+      "sha256": "46ecee340faa63806c2a9d7ca32d573dde78d32ccbf80ff938f2819030cc51ed"
+    },
+    {
+      "path": "builtin-art/monument-sun.png",
+      "bytes": 5567,
+      "sha256": "4ce7270aa765c4416661c95f466b6c55c3ad6bec32fcc816eb3db97f94b4be4f"
+    },
+    {
+      "path": "builtin-art/monument-tree.png",
+      "bytes": 5714,
+      "sha256": "6dc8b2f6dee3024b9b703a9bb2882749e7cfbbb2c1a65c2a39fa290ab1155fbc"
+    },
+    {
+      "path": "builtin-art/musician.png",
+      "bytes": 6188,
+      "sha256": "61f9cd8f975f0d26fd95f478ea6a1cff5e4aa9e9268b20e0a84e58e75a43e4c5"
+    },
+    {
+      "path": "builtin-art/paris-lady.png",
+      "bytes": 7818,
+      "sha256": "2a3313215f9fa7dff4cf8c019b75701532075083a68eb729fe6fa239b8eb8fb3"
+    },
+    {
+      "path": "builtin-art/poster.png",
+      "bytes": 2930,
+      "sha256": "08f32c03af917d960533eec12d41d2ccf0cc99506209a87ec3edd4b13472d1a8"
+    },
+    {
+      "path": "builtin-art/sandcastle.png",
+      "bytes": 7382,
+      "sha256": "30de2189c365ecc451bc327a436c922a0d9febf3aaa81d238224903965c367a4"
+    },
+    {
+      "path": "builtin-art/shell.png",
+      "bytes": 3132,
+      "sha256": "4a2a9d233e16f1f47c9ab5c821dca10a3988fe1d43ad0c6fddf5f998fdf856cf"
+    },
+    {
+      "path": "builtin-art/sunbather-back.png",
+      "bytes": 6231,
+      "sha256": "e88c853ee8d95680715e013ee211e8b5c3bdb4e2184f153e7b051331e6a30271"
+    },
+    {
+      "path": "builtin-art/sunbather-front.png",
+      "bytes": 6272,
+      "sha256": "310d751799c4431ce76adde893c2b385d0e952a11b706fc47ffb52ae41ca021e"
+    },
+    {
+      "path": "builtin-art/sunbather-standing.png",
+      "bytes": 5649,
+      "sha256": "b139823049718f15bcd6ffa7f6bbab2ee907c88d5b09c297324cbe67a851471d"
+    },
+    {
+      "path": "builtin-art/table.png",
+      "bytes": 7478,
+      "sha256": "1ec6d3201c6a9976ebb3e173c55e4bb1ec63dd759328d4d234dd89accf1ec668"
+    },
+    {
+      "path": "builtin-art/tourists.png",
+      "bytes": 8712,
+      "sha256": "e6ae0b2ee786d024c8c1ab621e036f14ef24d5c232143ecebb8e875e6e4798af"
+    },
+    {
+      "path": "builtin-art/tower.png",
+      "bytes": 6028,
+      "sha256": "b29aa4a5cd464f92f47a522904b0db76cf0c898333946ede33e5bebb86e260b9"
+    },
+    {
+      "path": "builtin-art/umbrella.png",
+      "bytes": 4020,
+      "sha256": "20dca8dc92a936d3780cf7bbb7e192871cc1544bb6ff06017ff5e156e09e5342"
+    },
+    {
+      "path": "builtin-art/wheel.png",
+      "bytes": 12922,
+      "sha256": "49f988a876872657a8bf3bb6d2cf441898e853c4b73dc331f2e27bbddbfb21a0"
+    },
+    {
+      "path": "campaign.json",
+      "bytes": 160681,
+      "sha256": "c391c94af036ef603b1a91faadb89dbea5d189e04057c8112eb598e0e93f4971"
+    },
+    {
+      "path": "index.html",
+      "bytes": 498,
+      "sha256": "db6e4acd9f96210621e2a00f7db28900602917a45264d3be0d52f8a9f22cf2c9"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "title": "A dog off the leash",
-  "description": "Piss on Trees for iPhone and iPad: the game, TestFlight, support and privacy.",
+  "description": "Paws in the Park for iPhone and iPad: the game, TestFlight, support and privacy.",
   "support_label": "Game & support",
   "privacy_label": "Privacy",
   "skip": "Skip to content",
@@ -11,7 +11,7 @@
   "intro": "Outrun the owners, mark the trees and find your way through the park. Get help with the game or join a test walk.",
   "contact_title": "Tell us about your walk",
   "contact_intro": "Found a bug or have an idea for the game? We would like to hear it.",
-  "email_subject": "Piss on Trees — feedback",
+  "email_subject": "Paws in the Park — feedback",
   "email_body": "Hello!\r\n\r\nWhat happened:\r\n\r\nExpected result:\r\n\r\nApp version and build:\r\nDevice model and iOS version:\r\n",
   "email_button": "Email support",
   "copy_label": "Copy email address",
@@ -65,7 +65,7 @@
     ],
     [
       "How do I open my own park?",
-      "<p>Save a <code>.potlevel</code> file in Files on your iPhone and open it with Piss on Trees. Imported parks appear in the My Parks section.</p><p>Map images and objects are stored on the device. An external link opens only after a warning showing its address and your confirmation.</p>"
+      "<p>Save a <code>.potlevel</code> file in Files on your iPhone and open it with Paws in the Park. Imported parks appear in the My Parks section.</p><p>Map images and objects are stored on the device. An external link opens only after a warning showing its address and your confirmation.</p>"
     ],
     [
       "Do I need an account?",
@@ -81,10 +81,10 @@
     ]
   ],
   "privacy_title": "Privacy policy",
-  "privacy_description": "Data in Piss on Trees: local parks, Game Center, TestFlight and support messages.",
-  "privacy_intro": "This page describes the current Piss on Trees 0.2.22 beta for iPhone and iPad. The main game runs locally. Online scores through Apple Game Center are optional.",
+  "privacy_description": "Data in Paws in the Park: local parks, Game Center, TestFlight and support messages.",
+  "privacy_intro": "This page describes Paws in the Park for iPhone and iPad and the web park editor. The main game runs locally. Online scores through Apple Game Center are optional.",
   "owner_label": "Developer and data contact",
-  "updated_label": "Updated October 23, 2026",
+  "updated_label": "Updated October 28, 2026",
   "contents_label": "On this page",
   "privacy_sections": [
     [
@@ -115,7 +115,7 @@
     [
       "website",
       "This website and analytics",
-      "<p>The game includes no advertising or third-party analytics SDKs. This website uses no analytics scripts, advertising cookies, upload forms or localStorage. The email-copy button writes to the clipboard only when you press it.</p><p>The website is hosted on GitHub Pages. GitHub logs visitor IP addresses for service security: <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection\">GitHub Pages data collection</a>.</p>"
+      "<p>The game includes no advertising or third-party analytics SDKs. This website uses no analytics scripts or advertising cookies. The support pages do not use localStorage; the email-copy button writes to the clipboard only when you press it.</p><p>The park editor processes selected maps and images in your browser, saves the current park in IndexedDB and localStorage, and creates a .potlevel export file. Map and image contents are not sent to the developer or GitHub. Export and import .potlevel to move between addresses or devices. Clearing browser site data removes local projects.</p><p>The website is hosted on GitHub Pages. GitHub logs visitor IP addresses for service security: <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection\">GitHub Pages data collection</a>.</p>"
     ],
     [
       "delete",
@@ -124,5 +124,6 @@
     ]
   ],
   "github_button": "Report a bug on GitHub",
-  "github_note": "GitHub issues are public. Use TestFlight feedback for private details."
+  "github_note": "GitHub issues are public. Use TestFlight feedback for private details.",
+  "editor_label": "Park editor"
 }

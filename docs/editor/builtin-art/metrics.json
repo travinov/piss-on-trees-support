@@ -1,0 +1,578 @@
+{
+  "beach-family": {
+    "path": "beach-family.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      38.5,
+      89.790001,
+      84.5,
+      60.209999
+    ],
+    "sha256": "64c76569ee318133ee668a18c69f9b1858b051db24036942b3620b4143210d4a"
+  },
+  "bench": {
+    "path": "bench.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      54.5,
+      123.5,
+      51.5,
+      25.85
+    ],
+    "sha256": "06f0cf13b4f5282ca9fe90760f2a995f973f3901d10597c129466f3ab6cc88ed"
+  },
+  "bench-couple": {
+    "path": "bench-couple.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      32.5,
+      63.5,
+      95.5,
+      85.5
+    ],
+    "sha256": "e996f51ac2628a574156929ad420d0bb261e679649aa4b3b5dd8d1352baa5b7f"
+  },
+  "bench-family": {
+    "path": "bench-family.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      32.5,
+      74.5,
+      97.5,
+      74.5
+    ],
+    "sha256": "dd1520bfc345ff83b9616e566438036621951a38bb4855a5eeba95f57779d9f9"
+  },
+  "bench-grandparents": {
+    "path": "bench-grandparents.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      32.5,
+      74.5,
+      95.5,
+      74.5
+    ],
+    "sha256": "fd89a97bef9e9278ea00c2db6923b8e0a0ea3df2ad1bb1fe62f831d32f69744f"
+  },
+  "bench-readers": {
+    "path": "bench-readers.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      32.5,
+      74.5,
+      95.5,
+      74.5
+    ],
+    "sha256": "316ee10af366b93674a35393dc3fa0705ace9c2e4be3129a313b0f9c5a03fc06"
+  },
+  "bush-bloom": {
+    "path": "bush-bloom.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      40.5,
+      109.5,
+      80.5,
+      37.5
+    ],
+    "sha256": "9367dc2abccfe4272516eab23fee315e26e008099a1a9d3251751d384dca6547"
+  },
+  "bush-round": {
+    "path": "bush-round.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      40.5,
+      109.5,
+      80.5,
+      37.5
+    ],
+    "sha256": "91890a94434340a1ceda6532644aec2600c53fae6c3065b424f17e9033326052"
+  },
+  "bush-slender": {
+    "path": "bush-slender.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      40.5,
+      91.5,
+      80.5,
+      55.5
+    ],
+    "sha256": "2a44a85f6fa1534d1f57766832237acea8c6d7f5ad014adcb227e4dbc05de860"
+  },
+  "cabin": {
+    "path": "cabin.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      48.132,
+      65.777,
+      64.867996,
+      81.223
+    ],
+    "sha256": "8bf826a1b33b7366905a6cf642f82b50c9d1439817902bd61715a6ef74843d59"
+  },
+  "cafe": {
+    "path": "cafe.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.633999,
+      83.5,
+      73.365997,
+      63.5
+    ],
+    "sha256": "8671b6396d7c18700ec47a2ac3c95464113e86be071d93dc75843785a11f6631"
+  },
+  "clown": {
+    "path": "clown.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      51.5,
+      74.277,
+      57.5,
+      75.723
+    ],
+    "sha256": "7a32dc39f5ce6ecc01b7ce27e1d9959e117ae8e62fbc6309a3fd69bf46cdd148"
+  },
+  "clown-performer": {
+    "path": "clown-performer.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      59.236,
+      49.5,
+      55.764,
+      99.5
+    ],
+    "sha256": "ef9d8d8949a611121f9a847b4d12c405c064623193c1da0e058cd1877c575173"
+  },
+  "doghouse": {
+    "path": "doghouse.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      37.354,
+      72.165001,
+      85.292,
+      77.834999
+    ],
+    "sha256": "9df74a4373dc70c6d8ba85aff9223e907a872b390f557c7bd8e479cd10bb79d4"
+  },
+  "fence": {
+    "path": "fence.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      47.150002,
+      112.5,
+      70.699997,
+      34.5
+    ],
+    "sha256": "0dc9e18c1575a2b0ee5b412ebba148c140bf1a033572f83390fb6774b96c3635"
+  },
+  "flowers": {
+    "path": "flowers.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      50.5,
+      112.5,
+      59.5,
+      37.5
+    ],
+    "sha256": "d971b6d5da33ed2f9b3a8b8de37223cd1c8bfd6bb7ab0a87897cbeaccadd6f13"
+  },
+  "fountain": {
+    "path": "fountain.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      46.5,
+      90.650002,
+      67.5,
+      56.349998
+    ],
+    "sha256": "1fddf5d8695072e39c8ddd4a3907a002262b9dad44d1c3a69e6f19368f0797a5"
+  },
+  "fountain-birds": {
+    "path": "fountain-birds.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.5,
+      73.901001,
+      73.5,
+      73.098999
+    ],
+    "sha256": "3ada6d0d109a97456c0fccfb1a843bf2a2225877fce03bcc329e5ef474a2a3c0"
+  },
+  "fountain-fish": {
+    "path": "fountain-fish.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.5,
+      67.244003,
+      73.5,
+      79.755997
+    ],
+    "sha256": "51f24f2b326dec27ca228e14c0f01dbc9e8e93d49a75516db2e1e53199e1fe05"
+  },
+  "fountain-shell": {
+    "path": "fountain-shell.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.5,
+      65.650002,
+      73.5,
+      81.349998
+    ],
+    "sha256": "4c8eebeb58ed6597ee9dfcd6bee713ac6cbb636baec7765de4a1a63844a814b9"
+  },
+  "fountain-urn": {
+    "path": "fountain-urn.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.5,
+      67.5,
+      73.5,
+      79.5
+    ],
+    "sha256": "79c4d492d636d9066e7f1e11ac234d395fd6154012366998ea7d30b32ce2c0be"
+  },
+  "garland": {
+    "path": "garland.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      34.5,
+      75.650002,
+      91.5,
+      73.349998
+    ],
+    "sha256": "fd9798342e39e84ce3f880758a9984070e67342dd0c5ca2ad0a7165220fab6ce"
+  },
+  "girl-balloon": {
+    "path": "girl-balloon.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      57.049999,
+      19.499994,
+      53.950001,
+      128.100006
+    ],
+    "sha256": "982013bc233f17b266c2e6856debbf05d5f4f3948ab5c60aaf33b5a075309f7f"
+  },
+  "hotdog-cart": {
+    "path": "hotdog-cart.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      39.894001,
+      54.5,
+      81.106003,
+      92.5
+    ],
+    "sha256": "e9a16a1b20129dca4d4f0406a7e3fce2cf5bc66f487fd6dae94afbef011ee69d"
+  },
+  "icecream": {
+    "path": "icecream.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.675999,
+      63.5,
+      81.674004,
+      83.5
+    ],
+    "sha256": "c8d678fdbf22a71e1cc2073ff7aad015337a8ccb40afca0e2ff6087e18780b4c"
+  },
+  "kiosk": {
+    "path": "kiosk.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.633999,
+      83.5,
+      73.365997,
+      63.5
+    ],
+    "sha256": "62bc61c85e7211adc7386a158cf8f7a47a01441ca1c3d3841aa7a51b33b43965"
+  },
+  "lamp": {
+    "path": "lamp.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      61.271999,
+      55.689003,
+      38.728001,
+      93.310997
+    ],
+    "sha256": "f4bea3d911256ea99f6a707dc30f63095ab495efc49bb87b2ab1bc7694a3cea5"
+  },
+  "lifeguard": {
+    "path": "lifeguard.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.217999,
+      40.720003,
+      74.781998,
+      107.393997
+    ],
+    "sha256": "f3bb560163c93a71a221a9b9e4de75f4e80cbffd55dad7dd79c9aaaf1a5205c9"
+  },
+  "lifeguard-person": {
+    "path": "lifeguard-person.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      55.125999,
+      74.5,
+      66.723999,
+      74.5
+    ],
+    "sha256": "bd1af5fd60e037596d9bfcc4bb05466c20f6c9d932c38c8f2550bab9fb461e3c"
+  },
+  "lounger": {
+    "path": "lounger.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.52,
+      94.698001,
+      75.480003,
+      51.896999
+    ],
+    "sha256": "b2f5ef11d18fe0f0126c69e989605473ffd3c538d83b75ee45109ac339387066"
+  },
+  "mime": {
+    "path": "mime.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      45.5,
+      69.5,
+      68.5,
+      79.5
+    ],
+    "sha256": "7e7cffffed72d0af2988f5784a2e7733029513e8cb32243d0f30c952f7f723dc"
+  },
+  "monument-dog": {
+    "path": "monument-dog.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      50.120001,
+      67.676003,
+      64.879997,
+      79.323997
+    ],
+    "sha256": "edc02e47e971323a8dabd6915df71c8f6f4e2551d0c80ff95154479e6c15104d"
+  },
+  "monument-poet": {
+    "path": "monument-poet.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      50.5,
+      60.5,
+      59.5,
+      86.5
+    ],
+    "sha256": "46ecee340faa63806c2a9d7ca32d573dde78d32ccbf80ff938f2819030cc51ed"
+  },
+  "monument-sun": {
+    "path": "monument-sun.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      49.15,
+      47.150002,
+      61.700001,
+      99.849998
+    ],
+    "sha256": "4ce7270aa765c4416661c95f466b6c55c3ad6bec32fcc816eb3db97f94b4be4f"
+  },
+  "monument-tree": {
+    "path": "monument-tree.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      50.5,
+      50.5,
+      59.5,
+      96.5
+    ],
+    "sha256": "6dc8b2f6dee3024b9b703a9bb2882749e7cfbbb2c1a65c2a39fa290ab1155fbc"
+  },
+  "musician": {
+    "path": "musician.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      54.5,
+      72.5,
+      80.5,
+      76.5
+    ],
+    "sha256": "61f9cd8f975f0d26fd95f478ea6a1cff5e4aa9e9268b20e0a84e58e75a43e4c5"
+  },
+  "paris-lady": {
+    "path": "paris-lady.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      59.236,
+      36.612999,
+      77.764,
+      112.387001
+    ],
+    "sha256": "2a3313215f9fa7dff4cf8c019b75701532075083a68eb729fe6fa239b8eb8fb3"
+  },
+  "poster": {
+    "path": "poster.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      55.5,
+      91.499999,
+      49.5,
+      55.478001
+    ],
+    "sha256": "08f32c03af917d960533eec12d41d2ccf0cc99506209a87ec3edd4b13472d1a8"
+  },
+  "sandcastle": {
+    "path": "sandcastle.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      39.5,
+      76.400002,
+      88.5,
+      73.599998
+    ],
+    "sha256": "30de2189c365ecc451bc327a436c922a0d9febf3aaa81d238224903965c367a4"
+  },
+  "shell": {
+    "path": "shell.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      53.506001,
+      113.092001,
+      53.901001,
+      36.445999
+    ],
+    "sha256": "4a2a9d233e16f1f47c9ab5c821dca10a3988fe1d43ad0c6fddf5f998fdf856cf"
+  },
+  "sunbather-back": {
+    "path": "sunbather-back.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      39.550999,
+      108.5,
+      80.448997,
+      43.5
+    ],
+    "sha256": "e88c853ee8d95680715e013ee211e8b5c3bdb4e2184f153e7b051331e6a30271"
+  },
+  "sunbather-front": {
+    "path": "sunbather-front.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      39.550999,
+      108.5,
+      80.448997,
+      43.5
+    ],
+    "sha256": "310d751799c4431ce76adde893c2b385d0e952a11b706fc47ffb52ae41ca021e"
+  },
+  "sunbather-standing": {
+    "path": "sunbather-standing.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      50.667999,
+      74.5,
+      51.104,
+      74.5
+    ],
+    "sha256": "b139823049718f15bcd6ffa7f6bbab2ee907c88d5b09c297324cbe67a851471d"
+  },
+  "table": {
+    "path": "table.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      41.5,
+      87.500002,
+      77.5,
+      58.898998
+    ],
+    "sha256": "1ec6d3201c6a9976ebb3e173c55e4bb1ec63dd759328d4d234dd89accf1ec668"
+  },
+  "tourists": {
+    "path": "tourists.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      43.650002,
+      85.049997,
+      78.650002,
+      64.800003
+    ],
+    "sha256": "e6ae0b2ee786d024c8c1ab621e036f14ef24d5c232143ecebb8e875e6e4798af"
+  },
+  "tower": {
+    "path": "tower.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      48.608999,
+      37.5,
+      63.390999,
+      109.5
+    ],
+    "sha256": "b29aa4a5cd464f92f47a522904b0db76cf0c898333946ede33e5bebb86e260b9"
+  },
+  "umbrella": {
+    "path": "umbrella.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      45.599998,
+      78.260002,
+      83.400002,
+      70.739998
+    ],
+    "sha256": "20dca8dc92a936d3780cf7bbb7e192871cc1544bb6ff06017ff5e156e09e5342"
+  },
+  "wheel": {
+    "path": "wheel.png",
+    "width": 160,
+    "height": 160,
+    "bounds": [
+      28.5,
+      30.605003,
+      103.5,
+      116.394997
+    ],
+    "sha256": "49f988a876872657a8bf3bb6d2cf441898e853c4b73dc331f2e27bbddbfb21a0"
+  }
+}
