@@ -9,9 +9,9 @@
       "sha256": "655572fa4bdd567fccb0260daaa74b4b3cd196820d66d5bbe205b6fa9952d305"
     },
     {
-      "path": "assets/index-DDNXTt8U.js",
-      "bytes": 301464,
-      "sha256": "6578b0198fd7bb00e0ff27dbd6acc59d36b8bf1d890d75bbf9d95d8ec2496ba1"
+      "path": "assets/index-DYP_4txH.js",
+      "bytes": 301482,
+      "sha256": "02f6ba411517cbfc79a2bd4614ab13fceff2582a15522e4a0c8928c0cb7776b9"
     },
     {
       "path": "builtin-art/beach-family.png",
@@ -266,7 +266,7 @@
     {
       "path": "index.html",
       "bytes": 498,
-      "sha256": "da0eb66a696808b95850f133d3aaecc85ff7bae2b45958dee4dd6de9c555ec13"
+      "sha256": "9d950f621323dd73fe5d476f5860bfb32d446e78f0daef92d5913ca0be215536"
     }
   ]
 }
