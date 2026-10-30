@@ -1,6 +1,6 @@
 {
   "name": "Paws in the Park — Мастерская парков",
-  "version": "0.2.19",
+  "version": "0.2.20",
   "base": "/piss-on-trees-support/editor/",
   "files": [
     {
@@ -9,9 +9,9 @@
       "sha256": "655572fa4bdd567fccb0260daaa74b4b3cd196820d66d5bbe205b6fa9952d305"
     },
     {
-      "path": "assets/index-DOYFoz40.js",
-      "bytes": 299475,
-      "sha256": "0c048c5be42da52edde76da840d5149d4c9afa9a4b2badc40d6d1114f218b111"
+      "path": "assets/index-DDNXTt8U.js",
+      "bytes": 301464,
+      "sha256": "6578b0198fd7bb00e0ff27dbd6acc59d36b8bf1d890d75bbf9d95d8ec2496ba1"
     },
     {
       "path": "builtin-art/beach-family.png",
@@ -266,7 +266,7 @@
     {
       "path": "index.html",
       "bytes": 498,
-      "sha256": "db6e4acd9f96210621e2a00f7db28900602917a45264d3be0d52f8a9f22cf2c9"
+      "sha256": "da0eb66a696808b95850f133d3aaecc85ff7bae2b45958dee4dd6de9c555ec13"
     }
   ]
 }
