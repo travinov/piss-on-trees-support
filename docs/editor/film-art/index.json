@@ -1,0 +1,1568 @@
+{
+  "assets": [
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "character",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/dog.png"
+      ],
+      "id": "dog",
+      "width": 512,
+      "crop": [
+        52,
+        30,
+        408,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "character",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/grandpa-blue.png"
+      ],
+      "id": "grandpa-blue",
+      "width": 512,
+      "crop": [
+        126,
+        31,
+        260,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "character",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/grandpa-rust.png"
+      ],
+      "id": "grandpa-rust",
+      "width": 512,
+      "crop": [
+        181,
+        31,
+        150,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "character",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/grandma.png"
+      ],
+      "id": "grandma",
+      "width": 512,
+      "crop": [
+        128,
+        30,
+        256,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "character",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/visitor-0.png"
+      ],
+      "id": "visitor-0",
+      "width": 512,
+      "crop": [
+        171,
+        30,
+        170,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "character",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/visitor-1.png"
+      ],
+      "id": "visitor-1",
+      "width": 512,
+      "crop": [
+        180,
+        30,
+        152,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "character",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/visitor-2.png"
+      ],
+      "id": "visitor-2",
+      "width": 512,
+      "crop": [
+        178,
+        31,
+        156,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "accessory",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/flashlight.png"
+      ],
+      "id": "flashlight",
+      "width": 512,
+      "crop": [
+        44,
+        215,
+        424,
+        246
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-0-calm.png"
+      ],
+      "id": "tree-0-calm",
+      "width": 512,
+      "crop": [
+        59,
+        30,
+        394,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-0-alert.png"
+      ],
+      "id": "tree-0-alert",
+      "width": 512,
+      "crop": [
+        56,
+        29,
+        400,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-0-dry.png"
+      ],
+      "id": "tree-0-dry",
+      "width": 512,
+      "crop": [
+        56,
+        29,
+        400,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-1-calm.png"
+      ],
+      "id": "tree-1-calm",
+      "width": 512,
+      "crop": [
+        106,
+        30,
+        300,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-1-alert.png"
+      ],
+      "id": "tree-1-alert",
+      "width": 512,
+      "crop": [
+        101,
+        29,
+        310,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-1-dry.png"
+      ],
+      "id": "tree-1-dry",
+      "width": 512,
+      "crop": [
+        106,
+        29,
+        300,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-2-calm.png"
+      ],
+      "id": "tree-2-calm",
+      "width": 512,
+      "crop": [
+        66,
+        29,
+        380,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-2-alert.png"
+      ],
+      "id": "tree-2-alert",
+      "width": 512,
+      "crop": [
+        66,
+        29,
+        380,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-2-dry.png"
+      ],
+      "id": "tree-2-dry",
+      "width": 512,
+      "crop": [
+        71,
+        29,
+        370,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-3-calm.png"
+      ],
+      "id": "tree-3-calm",
+      "width": 512,
+      "crop": [
+        87,
+        32,
+        338,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-3-alert.png"
+      ],
+      "id": "tree-3-alert",
+      "width": 512,
+      "crop": [
+        85,
+        29,
+        342,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "tree",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tree-3-dry.png"
+      ],
+      "id": "tree-3-dry",
+      "width": 512,
+      "crop": [
+        85,
+        29,
+        342,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/beach-family.png"
+      ],
+      "id": "beach-family",
+      "width": 512,
+      "crop": [
+        44,
+        100,
+        424,
+        354
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/bench.png"
+      ],
+      "id": "bench",
+      "width": 512,
+      "crop": [
+        44,
+        107,
+        424,
+        350
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/bench-couple.png"
+      ],
+      "id": "bench-couple",
+      "width": 512,
+      "crop": [
+        44,
+        44,
+        424,
+        412
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/bench-family.png"
+      ],
+      "id": "bench-family",
+      "width": 512,
+      "crop": [
+        44,
+        50,
+        424,
+        404
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/bench-grandparents.png"
+      ],
+      "id": "bench-grandparents",
+      "width": 512,
+      "crop": [
+        44,
+        62,
+        424,
+        391
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/bench-readers.png"
+      ],
+      "id": "bench-readers",
+      "width": 512,
+      "crop": [
+        44,
+        75,
+        424,
+        382
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/bush-bloom.png"
+      ],
+      "id": "bush-bloom",
+      "width": 512,
+      "crop": [
+        44,
+        73,
+        424,
+        380
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/bush-round.png"
+      ],
+      "id": "bush-round",
+      "width": 512,
+      "crop": [
+        44,
+        58,
+        424,
+        396
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/bush-slender.png"
+      ],
+      "id": "bush-slender",
+      "width": 512,
+      "crop": [
+        173,
+        31,
+        166,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/cabin.png"
+      ],
+      "id": "cabin",
+      "width": 512,
+      "crop": [
+        77,
+        30,
+        358,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/cafe.png"
+      ],
+      "id": "cafe",
+      "width": 512,
+      "crop": [
+        44,
+        50,
+        424,
+        404
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/clown.png"
+      ],
+      "id": "clown",
+      "width": 512,
+      "crop": [
+        71,
+        30,
+        370,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/clown-performer.png"
+      ],
+      "id": "clown-performer",
+      "width": 512,
+      "crop": [
+        120,
+        32,
+        272,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/doghouse.png"
+      ],
+      "id": "doghouse",
+      "width": 512,
+      "crop": [
+        44,
+        31,
+        424,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/fence.png"
+      ],
+      "id": "fence",
+      "width": 512,
+      "crop": [
+        44,
+        134,
+        424,
+        322
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/flowers.png"
+      ],
+      "id": "flowers",
+      "width": 512,
+      "crop": [
+        44,
+        176,
+        424,
+        281
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/fountain.png"
+      ],
+      "id": "fountain",
+      "width": 512,
+      "crop": [
+        44,
+        35,
+        424,
+        422
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/fountain-birds.png"
+      ],
+      "id": "fountain-birds",
+      "width": 512,
+      "crop": [
+        63,
+        30,
+        386,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/fountain-fish.png"
+      ],
+      "id": "fountain-fish",
+      "width": 512,
+      "crop": [
+        70,
+        33,
+        372,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/fountain-shell.png"
+      ],
+      "id": "fountain-shell",
+      "width": 512,
+      "crop": [
+        44,
+        41,
+        424,
+        413
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/fountain-urn.png"
+      ],
+      "id": "fountain-urn",
+      "width": 512,
+      "crop": [
+        73,
+        29,
+        366,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/garland.png"
+      ],
+      "id": "garland",
+      "width": 512,
+      "crop": [
+        44,
+        101,
+        424,
+        353
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/girl-balloon.png"
+      ],
+      "id": "girl-balloon",
+      "width": 512,
+      "crop": [
+        108,
+        30,
+        296,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/hotdog-cart.png"
+      ],
+      "id": "hotdog-cart",
+      "width": 512,
+      "crop": [
+        57,
+        30,
+        398,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/icecream.png"
+      ],
+      "id": "icecream",
+      "width": 512,
+      "crop": [
+        75,
+        31,
+        362,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/kiosk.png"
+      ],
+      "id": "kiosk",
+      "width": 512,
+      "crop": [
+        55,
+        33,
+        402,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/lamp.png"
+      ],
+      "id": "lamp",
+      "width": 512,
+      "crop": [
+        202,
+        31,
+        108,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/lifeguard.png"
+      ],
+      "id": "lifeguard",
+      "width": 512,
+      "crop": [
+        50,
+        30,
+        412,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/lifeguard-person.png"
+      ],
+      "id": "lifeguard-person",
+      "width": 512,
+      "crop": [
+        152,
+        31,
+        208,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/lounger.png"
+      ],
+      "id": "lounger",
+      "width": 512,
+      "crop": [
+        55,
+        29,
+        402,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/mime.png"
+      ],
+      "id": "mime",
+      "width": 512,
+      "crop": [
+        93,
+        31,
+        326,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/monument-dog.png"
+      ],
+      "id": "monument-dog",
+      "width": 512,
+      "crop": [
+        84,
+        29,
+        344,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/monument-poet.png"
+      ],
+      "id": "monument-poet",
+      "width": 512,
+      "crop": [
+        166,
+        29,
+        180,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/monument-sun.png"
+      ],
+      "id": "monument-sun",
+      "width": 512,
+      "crop": [
+        98,
+        31,
+        316,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/monument-tree.png"
+      ],
+      "id": "monument-tree",
+      "width": 512,
+      "crop": [
+        96,
+        32,
+        320,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/musician.png"
+      ],
+      "id": "musician",
+      "width": 512,
+      "crop": [
+        159,
+        29,
+        194,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/paris-lady.png"
+      ],
+      "id": "paris-lady",
+      "width": 512,
+      "crop": [
+        130,
+        29,
+        252,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/poster.png"
+      ],
+      "id": "poster",
+      "width": 512,
+      "crop": [
+        70,
+        31,
+        372,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/sandcastle.png"
+      ],
+      "id": "sandcastle",
+      "width": 512,
+      "crop": [
+        44,
+        39,
+        424,
+        416
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/shell.png"
+      ],
+      "id": "shell",
+      "width": 512,
+      "crop": [
+        44,
+        91,
+        424,
+        370
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/sunbather-back.png"
+      ],
+      "id": "sunbather-back",
+      "width": 512,
+      "crop": [
+        44,
+        44,
+        424,
+        409
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/sunbather-front.png"
+      ],
+      "id": "sunbather-front",
+      "width": 512,
+      "crop": [
+        44,
+        173,
+        424,
+        281
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/sunbather-standing.png"
+      ],
+      "id": "sunbather-standing",
+      "width": 512,
+      "crop": [
+        150,
+        29,
+        212,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/table.png"
+      ],
+      "id": "table",
+      "width": 512,
+      "crop": [
+        44,
+        47,
+        424,
+        409
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tourists.png"
+      ],
+      "id": "tourists",
+      "width": 512,
+      "crop": [
+        85,
+        32,
+        342,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/tower.png"
+      ],
+      "id": "tower",
+      "width": 512,
+      "crop": [
+        132,
+        30,
+        248,
+        425
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/umbrella.png"
+      ],
+      "id": "umbrella",
+      "width": 512,
+      "crop": [
+        44,
+        31,
+        424,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "prop",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/wheel.png"
+      ],
+      "id": "wheel",
+      "width": 512,
+      "crop": [
+        90,
+        31,
+        332,
+        424
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "terrain",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/terrain-asphalt.png"
+      ],
+      "id": "terrain-asphalt",
+      "width": 512,
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "terrain",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/terrain-paving.png"
+      ],
+      "id": "terrain-paving",
+      "width": 512,
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "terrain",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/terrain-earth.png"
+      ],
+      "id": "terrain-earth",
+      "width": 512,
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "terrain",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/terrain-gravel.png"
+      ],
+      "id": "terrain-gravel",
+      "width": 512,
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "terrain",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/terrain-sand.png"
+      ],
+      "id": "terrain-sand",
+      "width": 512,
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "terrain",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/terrain-boardwalk.png"
+      ],
+      "id": "terrain-boardwalk",
+      "width": 512,
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "fps": 1
+    },
+    {
+      "anchorX": 256,
+      "height": 512,
+      "category": "terrain",
+      "anchorY": 450.56,
+      "loop": false,
+      "frames": [
+        "images/terrain-grass.png"
+      ],
+      "id": "terrain-grass",
+      "width": 512,
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "fps": 1
+    }
+  ],
+  "legacyBindings": {
+    "props/fountain-fish": {
+      "asset": "fountain-fish"
+    },
+    "props/kiosk": {
+      "asset": "kiosk"
+    },
+    "props/monument-tree": {
+      "asset": "monument-tree"
+    },
+    "tree-0-frightened/dry": {
+      "asset": "tree-0-dry"
+    },
+    "props/bench-couple": {
+      "asset": "bench-couple"
+    },
+    "props/table": {
+      "asset": "table"
+    },
+    "tree-2/dry": {
+      "asset": "tree-2-dry"
+    },
+    "props/bench-family": {
+      "asset": "bench-family"
+    },
+    "tree-2-frightened/dry": {
+      "asset": "tree-2-dry"
+    },
+    "props/monument-sun": {
+      "asset": "monument-sun"
+    },
+    "props/sunbather-back": {
+      "asset": "sunbather-back"
+    },
+    "props/lifeguard": {
+      "asset": "lifeguard"
+    },
+    "props/beach-family": {
+      "asset": "beach-family"
+    },
+    "props/fountain-urn": {
+      "asset": "fountain-urn"
+    },
+    "props/icecream": {
+      "asset": "icecream"
+    },
+    "props/monument-poet": {
+      "asset": "monument-poet"
+    },
+    "props/lifeguard-person": {
+      "asset": "lifeguard-person"
+    },
+    "props/tower": {
+      "asset": "tower"
+    },
+    "props/bench-grandparents": {
+      "asset": "bench-grandparents"
+    },
+    "tree-3-frightened/dry": {
+      "asset": "tree-3-dry"
+    },
+    "props/lounger": {
+      "asset": "lounger"
+    },
+    "props/tourists": {
+      "asset": "tourists"
+    },
+    "props/clown": {
+      "asset": "clown"
+    },
+    "tree-1-frightened/dry": {
+      "asset": "tree-1-dry"
+    },
+    "props/cabin": {
+      "asset": "cabin"
+    },
+    "props/bench": {
+      "asset": "bench"
+    },
+    "props/fence": {
+      "asset": "fence"
+    },
+    "props/sunbather-standing": {
+      "asset": "sunbather-standing"
+    },
+    "props/fountain-shell": {
+      "asset": "fountain-shell"
+    },
+    "props/hotdog-cart": {
+      "asset": "hotdog-cart"
+    },
+    "props/doghouse": {
+      "asset": "doghouse"
+    },
+    "props/sunbather-front": {
+      "asset": "sunbather-front"
+    },
+    "props/shell": {
+      "asset": "shell"
+    },
+    "props/bench-readers": {
+      "asset": "bench-readers"
+    },
+    "props/fountain": {
+      "asset": "fountain"
+    },
+    "props/monument-dog": {
+      "asset": "monument-dog"
+    },
+    "tree-0/dry": {
+      "asset": "tree-0-dry"
+    },
+    "tree-1/dry": {
+      "asset": "tree-1-dry"
+    },
+    "props/poster": {
+      "asset": "poster"
+    },
+    "props/lamp": {
+      "asset": "lamp"
+    },
+    "props/cafe": {
+      "asset": "cafe"
+    },
+    "props/flowers": {
+      "asset": "flowers"
+    },
+    "tree-3/dry": {
+      "asset": "tree-3-dry"
+    },
+    "props/musician": {
+      "asset": "musician"
+    },
+    "props/fountain-birds": {
+      "asset": "fountain-birds"
+    }
+  },
+  "formatVersion": 1,
+  "purpose": "static editor artwork"
+}

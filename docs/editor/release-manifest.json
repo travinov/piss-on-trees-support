@@ -1,17 +1,17 @@
 {
   "name": "Paws in the Park — Мастерская парков",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "base": "/piss-on-trees-support/editor/",
   "files": [
+    {
+      "path": "assets/index-BaCQo8xy.js",
+      "bytes": 303503,
+      "sha256": "7ba2c14105b20ee9aa6fa7beffb197358f461a0779420f2e93e9d5c2b2119ffe"
+    },
     {
       "path": "assets/index-BkquXSvq.css",
       "bytes": 13816,
       "sha256": "655572fa4bdd567fccb0260daaa74b4b3cd196820d66d5bbe205b6fa9952d305"
-    },
-    {
-      "path": "assets/index-DYP_4txH.js",
-      "bytes": 301482,
-      "sha256": "02f6ba411517cbfc79a2bd4614ab13fceff2582a15522e4a0c8928c0cb7776b9"
     },
     {
       "path": "builtin-art/beach-family.png",
@@ -264,9 +264,389 @@
       "sha256": "c391c94af036ef603b1a91faadb89dbea5d189e04057c8112eb598e0e93f4971"
     },
     {
+      "path": "film-art/images/beach-family.png",
+      "bytes": 260313,
+      "sha256": "84ae23c079795a1607ab557ebaa3a019e7788cd7ae543fa2cdcd24192c3be609"
+    },
+    {
+      "path": "film-art/images/bench-couple.png",
+      "bytes": 276778,
+      "sha256": "17fa177830fc1a0530cfe86a83b6be2e1e1efa7ccb84d0fd0cce703c8f39d9e7"
+    },
+    {
+      "path": "film-art/images/bench-family.png",
+      "bytes": 271151,
+      "sha256": "e54ec6eb60b05d30e69e96c6323ccea139e5d17d89a670ba3feb1894db2dfdcc"
+    },
+    {
+      "path": "film-art/images/bench-grandparents.png",
+      "bytes": 277717,
+      "sha256": "db719c7e1b5356b069ad0bef478d0a4031e82a63377decc6184ca9eed3d223d1"
+    },
+    {
+      "path": "film-art/images/bench-readers.png",
+      "bytes": 254051,
+      "sha256": "b40d78e2453e9afccf41de1c11fbdf7e22a648021c583b4c3619b07c52e346c8"
+    },
+    {
+      "path": "film-art/images/bench.png",
+      "bytes": 220299,
+      "sha256": "07d7bccabdcd64b2ab9bde6ad1697a50ab07bdb5ce9bfd92b09b72309caf83a3"
+    },
+    {
+      "path": "film-art/images/bush-bloom.png",
+      "bytes": 316508,
+      "sha256": "de160c30b4d9e09ca6ff2b89dc525e93dd6f28c8da803d4d3089e326b84a648c"
+    },
+    {
+      "path": "film-art/images/bush-round.png",
+      "bytes": 310674,
+      "sha256": "be3d9096f65764c257eb44c2a25e897fa90d1c7799bb09f882d2d71e414d03e5"
+    },
+    {
+      "path": "film-art/images/bush-slender.png",
+      "bytes": 159912,
+      "sha256": "1483ca5692f09f3edbf7bb84858e8c3cf4c9de1ba721e0d54c0d4e889212e46c"
+    },
+    {
+      "path": "film-art/images/cabin.png",
+      "bytes": 214664,
+      "sha256": "9ba9bf4fe522fd4a15daa9baae8ab38b77f2e4051af0fd2c6c8a3b6ffbf18cbc"
+    },
+    {
+      "path": "film-art/images/cafe.png",
+      "bytes": 296695,
+      "sha256": "ee492223da89275c4093a5a56e0acd67bfbc97b0d8e2cfb08bc99c5c255c0066"
+    },
+    {
+      "path": "film-art/images/clown-performer.png",
+      "bytes": 151646,
+      "sha256": "8a7d46b85d11f4c51693f1fac3a6869a32950736b0080bfd06ac90d6a7af5ea6"
+    },
+    {
+      "path": "film-art/images/clown.png",
+      "bytes": 264674,
+      "sha256": "811390e943b0b2f483615c9695cc3dd12cb1765eb69d75474f950a2c841a3a53"
+    },
+    {
+      "path": "film-art/images/dog.png",
+      "bytes": 249359,
+      "sha256": "f1ccc74f6da10705a816edcfeae84463c06c300169671c950545ce80f57e5e07"
+    },
+    {
+      "path": "film-art/images/doghouse.png",
+      "bytes": 297635,
+      "sha256": "4e0694c2c46f82595f9ffe460c3838114c55f69221175e3866071fdfba326e1b"
+    },
+    {
+      "path": "film-art/images/fence.png",
+      "bytes": 210096,
+      "sha256": "58bfc685bcf4514a24cca4d8aaec858e84318e3721cff1021671303b9a141c4d"
+    },
+    {
+      "path": "film-art/images/flashlight.png",
+      "bytes": 203348,
+      "sha256": "ec09cce60ca70ee6a1494ff989bb725920ec90d9c7519110944923bef2a370c3"
+    },
+    {
+      "path": "film-art/images/flowers.png",
+      "bytes": 264767,
+      "sha256": "68900d07e4ef29098255e9d094c9c44a0c8f01e5d5fa533638cb78b9622d87e2"
+    },
+    {
+      "path": "film-art/images/fountain-birds.png",
+      "bytes": 224965,
+      "sha256": "750875dd3eec69a478eb3dec32bf0c5b7a4dca01d98984cfe8ca1a764bc9d5b3"
+    },
+    {
+      "path": "film-art/images/fountain-fish.png",
+      "bytes": 275311,
+      "sha256": "4f2785df98d9abadf36fb2e31552a159f149209e07ee88feda87c8848eadaa50"
+    },
+    {
+      "path": "film-art/images/fountain-shell.png",
+      "bytes": 294914,
+      "sha256": "8783409dc35d97193debed8198f6b199bda7d0215b087f91be159c80b523117a"
+    },
+    {
+      "path": "film-art/images/fountain-urn.png",
+      "bytes": 280126,
+      "sha256": "c2baebf1366e388425e42662876a33cc05d37bc24a47b0b577c960bd72805ce1"
+    },
+    {
+      "path": "film-art/images/fountain.png",
+      "bytes": 274555,
+      "sha256": "3ed8827b045f67d4c6927b64f0b9c18902a2ba032b6a7e1c2049b26583ddb900"
+    },
+    {
+      "path": "film-art/images/garland.png",
+      "bytes": 103364,
+      "sha256": "083674a01c3b9a66593d36fabb91d74d255ea0eb99945507a075883c58f4f1c8"
+    },
+    {
+      "path": "film-art/images/girl-balloon.png",
+      "bytes": 161634,
+      "sha256": "84c9925cb04cd361fd95f1ae7c16556e1df0ce52edaac2faeff30640fa545a8b"
+    },
+    {
+      "path": "film-art/images/grandma.png",
+      "bytes": 170414,
+      "sha256": "f565a6d6fe2b156c1baedb2d009dbc442ee6722c7cd81db41b7469e0eaa3dbd9"
+    },
+    {
+      "path": "film-art/images/grandpa-blue.png",
+      "bytes": 194291,
+      "sha256": "bf2fe8a370d52658e36f4ddc532c9939fea9a576b9a8f7c9d84816f54eed455c"
+    },
+    {
+      "path": "film-art/images/grandpa-rust.png",
+      "bytes": 104982,
+      "sha256": "4b55d5eae501f93815d071ea9c0356b731eb433a3d25461ff9e3c1fc685372a1"
+    },
+    {
+      "path": "film-art/images/hotdog-cart.png",
+      "bytes": 255655,
+      "sha256": "b3c616c09cd524fa57e7afbeb1ff46c4df9c02dfe821da9be551ea87c66de15c"
+    },
+    {
+      "path": "film-art/images/icecream.png",
+      "bytes": 251614,
+      "sha256": "9455833d11caf7202051f065df1f62a5a1482e5e87b6b5be3795be572d818a45"
+    },
+    {
+      "path": "film-art/images/kiosk.png",
+      "bytes": 231384,
+      "sha256": "51042fa771322e253fe460505bf21db02cfaca2f5da163387eeeadbed7ea9c6e"
+    },
+    {
+      "path": "film-art/images/lamp.png",
+      "bytes": 64667,
+      "sha256": "e51674384b98ce265eb4e086bdec419d9afcb6feaeae52a2f2df980b77d6e81b"
+    },
+    {
+      "path": "film-art/images/lifeguard-person.png",
+      "bytes": 132942,
+      "sha256": "1f562eb102becdb123e5bf6c6b770a29a4b01b7e9dfe827ac1881b25f257d635"
+    },
+    {
+      "path": "film-art/images/lifeguard.png",
+      "bytes": 268239,
+      "sha256": "b0cb06dfbb081f77e833aaf1a9f8ce43b53627c79a9a3230a032e443c8c9d6dc"
+    },
+    {
+      "path": "film-art/images/lounger.png",
+      "bytes": 231968,
+      "sha256": "6504d0d9dcb42db4fba1ba7ef4ab4df418c7fa926628bce8de87edbd04ef9b4a"
+    },
+    {
+      "path": "film-art/images/mime.png",
+      "bytes": 125166,
+      "sha256": "d998e9863a978286da6e5b5a5e9952a77abbbc91bbf77cd86e49fea2a4803fd2"
+    },
+    {
+      "path": "film-art/images/monument-dog.png",
+      "bytes": 272094,
+      "sha256": "3c7700a01d9a3661ab046f7202a4f4eab6c935322f32019846332761107fc3c5"
+    },
+    {
+      "path": "film-art/images/monument-poet.png",
+      "bytes": 144295,
+      "sha256": "ca2091020132d4a8a919f7766c9d5e6a69b1842154e73fbdfe77c240ba5afac7"
+    },
+    {
+      "path": "film-art/images/monument-sun.png",
+      "bytes": 200683,
+      "sha256": "7c85b4e37913612bca6b6686eb6bec38e1666111485e27d95580328d1989536b"
+    },
+    {
+      "path": "film-art/images/monument-tree.png",
+      "bytes": 215339,
+      "sha256": "867f1af1c1d13fac3dae651750668236c74bf8e267f6fc06f87fc23663ea3265"
+    },
+    {
+      "path": "film-art/images/musician.png",
+      "bytes": 111158,
+      "sha256": "a801494b388fb5a4c0334b5a4dd855c02a4133e64f3715056d9e615cc08f4d83"
+    },
+    {
+      "path": "film-art/images/paris-lady.png",
+      "bytes": 137216,
+      "sha256": "391203851f66f43f741f8779d7bfcbddce43f0b1814770c1e9b95cc4de394348"
+    },
+    {
+      "path": "film-art/images/poster.png",
+      "bytes": 225659,
+      "sha256": "194d3cce463da7fac66197135f1f36198ec8788a45c90db1ba2c6227d352d0ba"
+    },
+    {
+      "path": "film-art/images/sandcastle.png",
+      "bytes": 252630,
+      "sha256": "0249e05b1faea25778bff3a0c5075d18f71f76dc08a8ef24044a878b592180cb"
+    },
+    {
+      "path": "film-art/images/shell.png",
+      "bytes": 274269,
+      "sha256": "da3e60cde5c6f183b65c51c3d1e5b1a1dedc16a03ca8d422271db4363a2c2521"
+    },
+    {
+      "path": "film-art/images/sunbather-back.png",
+      "bytes": 227892,
+      "sha256": "ac2e01e0ebbb54e32485dca60d37cc5b87ca3854daae10c89c853b7a2e188d22"
+    },
+    {
+      "path": "film-art/images/sunbather-front.png",
+      "bytes": 168953,
+      "sha256": "11c6bf9f47ea657e9e3786a16f9520d2d129cf7ddb3cf3d02333257b16fcdba2"
+    },
+    {
+      "path": "film-art/images/sunbather-standing.png",
+      "bytes": 137597,
+      "sha256": "03f495cf1b384d934dd8de68a9de6492051b20eb2bd10b900719c84bd2faa5a3"
+    },
+    {
+      "path": "film-art/images/table.png",
+      "bytes": 307629,
+      "sha256": "bb22eb9d2b7d4026fbfa257b0a1f83593d58f595c28fa44afd4f749dbfc28071"
+    },
+    {
+      "path": "film-art/images/terrain-asphalt.png",
+      "bytes": 588868,
+      "sha256": "ce54df58513f047d7992b4a05e9457ca14e458d0b4245a679fc285c65e67c21e"
+    },
+    {
+      "path": "film-art/images/terrain-boardwalk.png",
+      "bytes": 399628,
+      "sha256": "68ff1a570f8d5562b5d04e77b4794a5d53b0dc87694d1d2ed18170aded65f61d"
+    },
+    {
+      "path": "film-art/images/terrain-earth.png",
+      "bytes": 542794,
+      "sha256": "16a88c16eb5735dc8f48ca933dfa7d62c643f7059f26d2dc05b6ccb9d9d4aee2"
+    },
+    {
+      "path": "film-art/images/terrain-grass.png",
+      "bytes": 640070,
+      "sha256": "b45f07fb78c145b41bfaac8529e8a8b349aa75d872732c5cf724959a4521cec5"
+    },
+    {
+      "path": "film-art/images/terrain-gravel.png",
+      "bytes": 618626,
+      "sha256": "919798f5d19eb5b0d32b52b0396de4b4e41136ccd5c39c07a4a468780d765f22"
+    },
+    {
+      "path": "film-art/images/terrain-paving.png",
+      "bytes": 569728,
+      "sha256": "8b6f37b9d420caf964dc70f8282e8033f25e5dee3ed934a84742cbb53fcdf94b"
+    },
+    {
+      "path": "film-art/images/terrain-sand.png",
+      "bytes": 578349,
+      "sha256": "7048467af30bad63e609748655b26376a51db968ba9fde588ee12b53a1d8dfc9"
+    },
+    {
+      "path": "film-art/images/tourists.png",
+      "bytes": 218132,
+      "sha256": "3261abb80a59de0a2c46d26f6ef84d436e1c060caa709ffa0a97a8bbb8a88b10"
+    },
+    {
+      "path": "film-art/images/tower.png",
+      "bytes": 117425,
+      "sha256": "500db4e8b3787062fb670a69ffd4417eb0e95af30c22b60446236fc8e7d4f665"
+    },
+    {
+      "path": "film-art/images/tree-0-alert.png",
+      "bytes": 273464,
+      "sha256": "c419f3b7157371b9f8dcac8e933a15d4bc3000961b554bd47d443bfb5448d2f0"
+    },
+    {
+      "path": "film-art/images/tree-0-calm.png",
+      "bytes": 272136,
+      "sha256": "d60cbb61bd47117dfd51f1823af37914078afeed9146bf11ed65ed178e95b7c6"
+    },
+    {
+      "path": "film-art/images/tree-0-dry.png",
+      "bytes": 274793,
+      "sha256": "9b0c18b0af8c2ff3c704ef02820c6257a263b5d1a9a567d61ad4b79c0b454245"
+    },
+    {
+      "path": "film-art/images/tree-1-alert.png",
+      "bytes": 213697,
+      "sha256": "49e64e163feab44ad46801199a414ca56b0d6659c4d6ae90ada9c0f7d384f661"
+    },
+    {
+      "path": "film-art/images/tree-1-calm.png",
+      "bytes": 210723,
+      "sha256": "1a07c6b001513b6112c79347d66aa1885cb05168b7a33fd0f91df55c6f0274d3"
+    },
+    {
+      "path": "film-art/images/tree-1-dry.png",
+      "bytes": 202785,
+      "sha256": "d84ee0e262704b9afbe7773bf84485922efe36ce64ad5905bb944fe91ad851ff"
+    },
+    {
+      "path": "film-art/images/tree-2-alert.png",
+      "bytes": 270694,
+      "sha256": "039e8cb54e852609b99f0595ddf1f031625c58527e1cc850da9e1031f028f994"
+    },
+    {
+      "path": "film-art/images/tree-2-calm.png",
+      "bytes": 273309,
+      "sha256": "2d08ff25a4798ce0c39f312e3b29862eb8056d417f3c6fb8507b34e7c3c8dbae"
+    },
+    {
+      "path": "film-art/images/tree-2-dry.png",
+      "bytes": 262471,
+      "sha256": "f0260d1d69d369e0fe5697fcf2a45587c50236731015f45c6a79d0e4ede945d8"
+    },
+    {
+      "path": "film-art/images/tree-3-alert.png",
+      "bytes": 214415,
+      "sha256": "3fb97511d337ada0fe9a6bf882f8c8b75ed306b1df8075b248f39b150946dc24"
+    },
+    {
+      "path": "film-art/images/tree-3-calm.png",
+      "bytes": 216057,
+      "sha256": "b8439129074db33a28fc14887c5dc5413c7494ca611efb0a51a8e87938598593"
+    },
+    {
+      "path": "film-art/images/tree-3-dry.png",
+      "bytes": 221830,
+      "sha256": "68cac92f13dc3f11fd8c559a8029e4c42ee0cfb3ad96fcc25094af804ffa6d29"
+    },
+    {
+      "path": "film-art/images/umbrella.png",
+      "bytes": 179492,
+      "sha256": "914f47e6b9b43b66cf2dbbffb81eb861dab12cb88f8f5b7fbcf454ae2507d517"
+    },
+    {
+      "path": "film-art/images/visitor-0.png",
+      "bytes": 125858,
+      "sha256": "7351cbd578c658d17a7ff58c18ee0f7ac1a0d6ccb1702d4264322b19fc0ec74c"
+    },
+    {
+      "path": "film-art/images/visitor-1.png",
+      "bytes": 99435,
+      "sha256": "02608e97e54a498c58b0b55626b83e90d7c992281ce0e382520fa96e2520ad2a"
+    },
+    {
+      "path": "film-art/images/visitor-2.png",
+      "bytes": 115234,
+      "sha256": "51cec40d60ba09a578a9c7344abab6ae251e737c534ab88ae1cfbb00606f0262"
+    },
+    {
+      "path": "film-art/images/wheel.png",
+      "bytes": 239117,
+      "sha256": "adf5827ce43c362de3bd1708aeb0428300e1e743bcf270f16e3e1e700db43fea"
+    },
+    {
+      "path": "film-art/index.json",
+      "bytes": 27083,
+      "sha256": "ba278cf6642ad49b14f02805c85f123f8c8379c592f10672b147ad8847058ccb"
+    },
+    {
       "path": "index.html",
       "bytes": 498,
-      "sha256": "9d950f621323dd73fe5d476f5860bfb32d446e78f0daef92d5913ca0be215536"
+      "sha256": "992a70ae40a154796bb3ce1f46fe77dcc3050bb00aeeb0c8693c2676e51fa5da"
     }
   ]
 }
